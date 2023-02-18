@@ -1,0 +1,44 @@
+
+.root {
+    -fx-background-color: #E1BEE7 important;
+}
+
+.button {
+    -fx-background-color: transparent;
+}
+
+/* Setting up button background */
+.btn1 {
+    -fx-background-image: url(../images/youtube.png);
+    -fx-background-size: 64.5 64.5;;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+.btn2 {
+    -fx-background-image: url(../images/amazon.png);
+    -fx-background-size: 64.5 64.5;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+.btn3 {
+    -fx-background-image: url(../images/facebook.png);
+    -fx-background-size: 64.5 64.5;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+.btn4 {
+    -fx-background-image: url(../images/twitter.png);
+    -fx-background-size: 64.5 64.5;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+.btn5 {
+    -fx-background-image: url(../images/exit.png);
+    -fx-background-size: 64.5 64.5;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
